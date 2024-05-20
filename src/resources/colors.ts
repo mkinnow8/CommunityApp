@@ -1,0 +1,8 @@
+export const COLORS={
+    BACKGROUND_COLOR: '#080808',
+    WHITE: '#FFFFFF',
+    GREY: '#484848',
+    LIGHT_GREY: '#D3D3D3',
+    DARK_GREY: '#282828',
+    PURPLE: '#A129FF',
+}

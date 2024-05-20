@@ -1,0 +1,5 @@
+export const groupMeeting = require('./groupMeetings.png')
+export const appleIcon = require('./appleIcon.png')
+export const googleIcon = require('./googleIcon.png')
+export const avatar = require('./avatar.png')
+export const postImage = require('./postImage.jpg')
